@@ -26,4 +26,7 @@ Bienvenue sur **Melodrift**, une petite application web qui vous permet d'écout
 ---
 ## APERCU
 A la fin nous avons ajouté une petite capture pour montrer un petit appercu du resultat final 
+---
+##LIEN DE DEMONSTRATION
+  file:///C:/Users/hp/Desktop/kadia_1st%20project/index_test_musical.html
 
